@@ -13,10 +13,13 @@
 - [认知不分高低而分种类](essays/认知不分高低而分种类.md)
 - [选择之后成为怎样的人](essays/选择之后成为怎样的人.md)
 - [认知提升与项目选择](frameworks/认知提升与项目选择.md)
+- [普遍信念与公理：不要把口号当成天然正确](notes/popular-belief-vs-axiom.md)
+- [现实限制、因果意识与主观能动性](notes/reality-limits-causality-and-agency.md)
 
 ## 3. 群体与社会
 
 - [《乌合之众》：群体心理与反操控](notes/乌合之众-群体心理与反操控.md)
+- [饭圈、虚拟掌控感与主体性](notes/fandom-virtual-control-and-subjectivity.md)
 - [“牛羊成群，猛兽独行”：独处与组局](notes/牛羊成群猛兽独行-独处与组局.md)
 - [微观权力生存术：降低社会摩擦](notes/微观权力生存术-降低社会摩擦.md)
 
@@ -35,6 +38,7 @@
 
 - [2026-04-24：我为什么要学哲学](logs/2026-04-24-day1.md)
 - [2026-06：哲学对话整理回顾](logs/2026-06-philosophy-conversations-review.md)
+- [2026-06-20：《乌合之众》阅读复盘](logs/2026-06-20-crowd-psychology-reading-review.md)
 
 ## 写作工具
 
